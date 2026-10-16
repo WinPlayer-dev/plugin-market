@@ -1,0 +1,14 @@
+{
+  "name": "WinPlayer 官方插件市场",
+  "plugins": [
+    {
+      "id": "winplayer.bilibili.source",
+      "name": "哔哩哔哩",
+      "version": "1.0.0",
+      "description": "WinPlayer B站源插件",
+      "author": "WinPlayer-dev",
+      "url": "https://github.com/WinPlayer-dev/WinPlayer-BiliBili-Source",
+      "homepage": "https://github.com/WinPlayer-dev/WinPlayer-BiliBili-Source"
+    }
+  ]
+}
