@@ -2,7 +2,7 @@
   "name": "WinPlayer 官方插件市场",
   "plugins": [
     {
-      "id": "winplayer.bilibili.source",
+      "id": "com.winplayer.bilibili",
       "name": "哔哩哔哩",
       "version": "1.0.0",
       "description": "WinPlayer B站源插件",
